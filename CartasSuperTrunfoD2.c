@@ -93,7 +93,7 @@ int main() {
     printf("Super Poder: %s\n", superPoder1 > superPoder2 ? "Carta 1 vence" : "Carta 2 vence");
 
 
-// Escolha do atributo para comparação
+    // Escolha do atributo para comparação
     // Neste exemplo, vamos comparar o atributo "População"
     // Você pode trocar para "area", "pib", "densidadePopulacional", ou "pibPerCapita" se desejar
 
